@@ -20,7 +20,7 @@ git branch -M main
 git push -u origin main
 
 git checkout branchname 
-git checkout branchname -b
+git checkout  -b branchname
 
 git clone https://github.com/sandeepsomavarapu/Carrertuner_Nov_Batch.git
 
